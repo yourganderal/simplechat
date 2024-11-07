@@ -1,0 +1,12 @@
+debug/add_new_widget.o
+debug/chat_room.o
+debug/main.o
+debug/new_friend.o
+debug/register.o
+debug/widget.o
+debug/qrc_icons.o
+debug/moc_add_new_widget.o
+debug/moc_chat_room.o
+debug/moc_new_friend.o
+debug/moc_register.o
+debug/moc_widget.o
